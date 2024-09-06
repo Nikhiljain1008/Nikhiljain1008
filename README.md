@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jain</h1>
-<h3 align="center">A passionate Flutter developer from Pune, India. Passionately learning Data structure and algorithm. I have deep understanding of core computer subjects like OOPS,CN,OS</h3>
+<h3 align="center">A passionate Flutter developer from Pune, India. Currently learning Data structure and algorithm. I have deep understanding of core computer subjects like OOPS,CN,OS</h3>
 
 - 🌱 I’m currently learning **Full Stack**
 
